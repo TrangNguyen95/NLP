@@ -1,4 +1,4 @@
-# An Introduction to Natural-language Processing
+# An Introduction to Natural-Language Processing
 By Trang Nguyen on April 7, 2018
 
 Natural-language processing (NLP) is a computer science field that focus on programming computer to process natural language data. In a way, we can see NLP as continuous classes that teach computers human language. The goal for NLP is helping machines to understand human languages through oral or written communications. 
