@@ -20,6 +20,6 @@ What companies use NLP?
 Companies are utilizing NLP in building their applications, analyze their customers’ reviews, and so on. Some examples are Siri, Amazon Echo, and Google Home. Yes, when you talk to Siri, that is when NLP is helping her to understand what you are saying. Besides from that, various email systems also use NLP to detect spam mail and automatically include those emails in the spam folder. NLP is still growing, so we will see more of it in the future.
 
 
-## Reference
+#### Reference
   Gill, J. (2017) Overview of Artificial Intelligence and Role of Natural Language Processing in Big Data. Retrieved from https://www.xenonstack.com/blog/data-science/overview-of-artificial-intelligence-and-role-of-natural-language-processing-in-big-data
   Phillips, W. (2006) Introduction to Natural Language Processing. Retrieved from URL  http://www.mind.ilstu.edu/curriculum/protothinker/natural_language_processing.php
